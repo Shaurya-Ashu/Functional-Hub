@@ -98,8 +98,10 @@ Here are some of the rendering of the final product.
 Those are M2 Screw's & the top acrylic sheet will be glued .
 
 
+# Firmware
 
-
+It's Claude generator as I am not that good with firmware
+It is specifically for RP2040 macro pad configuration
 
 
 
