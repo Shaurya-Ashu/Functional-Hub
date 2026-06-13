@@ -1,0 +1,44 @@
+Item No.,Item,Description,Quantity,Price Per Unit ($),Total Price ($),Link
+1,Capacitor 1nF,Ceramic Capacitor 1nF ±10% 50V X7R 0201,4,0.0018,0.18,https://www.lcsc.com/product-detail/C505464.html
+2,Capacitor 100nF,Ceramic Capacitor 100nF ±10% 16V X5R 0201,27,0.0029,0.29,https://www.lcsc.com/product-detail/C307380.html
+3,Resistor 100Ω,Thick Film Resistor 100Ω ±1% 50mW 0201,2,0.0010,0.10,https://www.lcsc.com/product-detail/C77623.html
+4,Resistor 100kΩ,Thick Film Resistor 100kΩ ±1% 50mW 0201,1,0.0010,0.10,https://www.lcsc.com/product-detail/C106224.html
+5,Capacitor 100nF (2),Ceramic Capacitor 100nF ±10% 16V X5R 0201,18,0.0029,0.29,https://www.lcsc.com/product-detail/C307380.html
+6,Resistor 10kΩ,Thick Film Resistor 10kΩ ±5% 50mW 0201,12,0.0009,0.09,https://www.lcsc.com/product-detail/C138117.html
+7,Capacitor 10uF,Ceramic Capacitor 10uF ±20% 6.3V X5R 0402,2,0.0187,1.87,https://www.lcsc.com/product-detail/C15525.html
+8,X322512MSB4SI,12MHz,1,0.1011,0.51,https://www.lcsc.com/product-detail/C9002.html
+9,VZT151M1VTR-0607,150uF,3,0.1643,0.82,https://www.lcsc.com/product-detail/C249984.html
+10,Capacitor 18pF,Ceramic Capacitor 18pF ±5% 50V C0G 0201,2,0.0034,0.34,https://www.lcsc.com/product-detail/C85892.html
+11,Resistor 1kΩ,Thick Film Resistor 1kΩ ±1% 50mW 0201,1,0.0010,0.10,https://www.lcsc.com/product-detail/C138165.html
+12,Resistor 1MΩ,Thick Film Resistor 1MΩ ±5% 50mW 0201,5,0.0010,0.10,https://www.lcsc.com/product-detail/C473450.html
+13,Inductor 1uH,Multilayer Inductor 1uH ±20% 450mA 350mΩ 0402,1,0.0583,0.58,https://www.lcsc.com/product-detail/C531288.html
+14,Capacitor 1uF,Ceramic Capacitor 1uF ±20% 10V X5R 0201,5,0.0056,0.56,https://www.lcsc.com/product-detail/C170153.html
+15,Capacitor 22uF,Ceramic Capacitor 22uF ±20% 25V X5R 0805,2,0.1137,1.14,https://www.lcsc.com/product-detail/C602037.html
+16,ABM8-24.000MHZ-B2-T,24MHz,1,0.3985,1.99,https://www.lcsc.com/product-detail/C596897.html
+17,Resistor 25.5kΩ,Thick Film Resistor 25.5kΩ ±1% 50mW 0201,2,0.0103,0.52,https://www.lcsc.com/product-detail/C2074563.html
+18,Resistor 27kΩ,Thick Film Resistor 27kΩ ±1% 50mW 0201,2,0.1194,0.60,https://www.lcsc.com/product-detail/C2074373.html
+19,Resistor 4.7kΩ (A),Thick Film Resistor 4.7kΩ ±1% 50mW 0201,2,0.0071,0.71,https://www.lcsc.com/product-detail/C3000902.html
+20,Resistor 4.7kΩ (B),Thick Film Resistor 4.7kΩ ±1% 50mW 0201,3,0.0071,0.71,https://www.lcsc.com/product-detail/C3000902.html
+21,Capacitor 4.7uF,Ceramic Capacitor 4.7uF ±20% 6.3V X5R 0201,1,0.0732,0.73,https://www.lcsc.com/product-detail/C335103.html
+22,Resistor 470Ω,Thick Film Resistor 47Ω ±5% 50mW 0201,1,0.0017,0.01,https://www.lcsc.com/product-detail/C4058027.html
+23,Resistor 83.3kΩ,Metal Film Resistor 83kΩ ±2% 250mW Through Hole,1,0.9533,0.95,https://www.lcsc.com/product-detail/C3522106.html
+24,Resistor 90.9kΩ,Thick Film Resistor 90.9kΩ ±1% 50mW 0201,1,0.0432,0.43,https://www.lcsc.com/product-detail/C2078275.html
+25,Tactile Switch,SPST Tactile Switch 12x12mm Through Hole,3,0.1302,0.65,https://www.lcsc.com/product-detail/C84931.html
+26,Ferrite Bead 220Ω,Ferrite Bead 220Ω@100MHz 2.2A 0603,5,0.0222,1.11,https://www.lcsc.com/product-detail/C88980.html
+27,USB-A Connector,USB-A Receptacle 9-Pin Right Angle Through Hole,1,0.1240,0.62,https://www.lcsc.com/product-detail/C7501850.html
+28,"OLED 0.91\"" 128x32",,1,N/A,N/A,
+29,RP2040 MCU,Raspberry Pi RP2040 Microcontroller QFN-56,1,N/A,N/A,https://www.lcsc.com/product-detail/C2961140.html
+30,Test Point,SMD Test Point,4,0.2990,1.50,https://www.lcsc.com/product-detail/C5846954.html
+31,Slide Switch,SPDT Slide Switch Through Hole,1,0.1182,0.59,https://www.lcsc.com/product-detail/C136720.html
+32,Magnetic Encoder,TLE5012B 360° Magnetic Angle Sensor SO-8,1,5.4077,5.41,https://www.lcsc.com/product-detail/C2655225.html
+33,Buck Converter,TLV62568 1A 1.5MHz Step-Down DC-DC Regulator SOT-563,1,0.2468,1.23,https://www.lcsc.com/product-detail/C398368.html
+34,LDO Regulator 3.3V,TLV700 3.3V 300mA LDO Regulator SOT-23-5,2,0.1635,0.82,https://www.lcsc.com/product-detail/C2877582.html
+35,ESD Protection,TPD6E05U06 USB ESD Protection Diode USON-14,4,0.5103,2.04,https://www.lcsc.com/product-detail/C962978.html
+36,Load Switch,TPS2561 2.8A High-Side Power Switch VSON-10,2,1.0079,2.02,https://www.lcsc.com/product-detail/C140303.html
+37,USB 3.0 Hub IC,TUSB8041 4-Port USB 3.0 Hub Controller VQFN-64,1,12.2050,12.21,https://www.lcsc.com/product-detail/C702388.html
+38,USB-C Connector (Full),USB-C 24-Pin SMD Right Angle Receptacle,3,0.6425,1.93,https://www.lcsc.com/product-detail/C381478.html
+39,USB-C Connector (Power),USB-C 6-Pin SMD Power Connector,1,0.0347,0.35,https://www.lcsc.com/product-detail/C53207798.html
+40,Flash Memory,W25Q128 128Mbit SPI NOR Flash SOIC-8,1,2.7750,27.75,https://www.lcsc.com/product-detail/C113767.html
+41,PCB,Custom Printed Circuit Board,1,7.00,7.00,
+42,3D Printed Parts,3D Printed Enclosure / Structural Parts,1,5.00,5.00,
+,,,,GRAND TOTAL,83.95,
