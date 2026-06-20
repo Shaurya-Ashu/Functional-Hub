@@ -13,7 +13,6 @@
 | OLED SCL        | GP5       |
 | NeoPixel        | GP16      |
 
-> **If your schematic differs**, only edit `keymap.py` — `code.py` never needs touching for pin changes.
 
 ---
 
@@ -93,9 +92,3 @@
 
 ---
 
-## Customising
-All bindings, pins, and OLED size are in `keymap.py`. Add more layers by appending to the `LAYERS` list — no changes to `code.py` needed.
-
-## No OLED / No NeoPixel?
-- **No OLED:** Comment out the `import adafruit_displayio_ssd1306` block and the `update_display` calls in `code.py`, or just leave as-is (it will error silently after 3 retries and keep running).
-- **No NeoPixel:** Set `NEOPIXEL_PIN = None` in `keymap.py`.
